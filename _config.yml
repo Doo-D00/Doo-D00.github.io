@@ -17,7 +17,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Doo의 테크블로그"
+tab_title                : "Doo의 테크블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -113,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sangwon Doo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "IT기획자. 프론트개발자."
+  location         : "Seoul, South Korea"
+  email            : "doosw02@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
